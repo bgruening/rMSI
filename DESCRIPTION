@@ -10,10 +10,7 @@ License: GPL3
 LazyData: TRUE
 Depends:
     R (>= 3.6),
-    gWidgets2 (>= 1.0),
-    RGtk2 (>= 2.20.25),
     cairoDevice (>= 2.22),
-    gWidgets2RGtk2 (>= 1.0),
     ff (>= 2.2)
 Imports:
     bit (>= 1.1-12),
